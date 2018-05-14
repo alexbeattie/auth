@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "newcall/ViewController.swift"
-            timestampString = "548021111.680562"
+            timestampString = "548025324.989519"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "53"
-            endingLineNumber = "53"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
             landmarkName = "dataRequest(completionHandler:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -26,11 +26,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "newcall/ViewController.swift"
-            timestampString = "548021111.680953"
+            timestampString = "548025324.9898421"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "48"
-            endingLineNumber = "48"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
             landmarkName = "dataRequest(completionHandler:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -42,11 +42,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "newcall/ViewController.swift"
-            timestampString = "548021111.68116"
+            timestampString = "548025324.990049"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "50"
-            endingLineNumber = "50"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
             landmarkName = "dataRequest(completionHandler:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -58,74 +58,43 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "newcall/ViewController.swift"
-            timestampString = "548021111.681355"
+            timestampString = "548025324.990247"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "69"
-            endingLineNumber = "69"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
             landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "newcall/ViewController.swift"
-            timestampString = "548021111.681586"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "58"
-            endingLineNumber = "58"
-            landmarkName = "dataRequest(completionHandler:)"
             landmarkType = "7">
             <Locations>
                <Location
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in newcall.ViewController.dataRequest(completionHandler: (newcall.ViewController.responseData) -&gt; ()) -&gt; ()"
+                  symbolName = "newcall.ViewController.viewDidLoad() -&gt; ()"
                   moduleName = "newcall"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/alexbeattie/Dropbox/newcall%20copy/newcall/ViewController.swift"
-                  timestampString = "548021111.785082"
+                  urlString = "file:///Users/alexbeattie/Desktop/newcall%20copy/newcall/ViewController.swift"
+                  timestampString = "548025325.098685"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "58"
-                  endingLineNumber = "58"
-                  offsetFromSymbolStart = "1782">
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "99">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in newcall.ViewController.dataRequest(completionHandler: (newcall.ViewController.responseData) -&gt; ()) -&gt; ()"
+                  symbolName = "closure #1 (newcall.ViewController.responseData) -&gt; () in newcall.ViewController.viewDidLoad() -&gt; ()"
                   moduleName = "newcall"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/alexbeattie/Dropbox/newcall%20copy/newcall/ViewController.swift"
-                  timestampString = "548021111.78827"
+                  urlString = "file:///Users/alexbeattie/Desktop/newcall%20copy/newcall/ViewController.swift"
+                  timestampString = "548025325.10192"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "58"
-                  endingLineNumber = "58"
-                  offsetFromSymbolStart = "2290">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in newcall.ViewController.dataRequest(completionHandler: (newcall.ViewController.responseData) -&gt; ()) -&gt; ()"
-                  moduleName = "newcall"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/alexbeattie/Dropbox/newcall%20copy/newcall/ViewController.swift"
-                  timestampString = "548021111.791106"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "58"
-                  endingLineNumber = "58"
-                  offsetFromSymbolStart = "2328">
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "12">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -137,11 +106,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "newcall/ViewController.swift"
-            timestampString = "548021111.681814"
+            timestampString = "548025324.990446"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "49"
-            endingLineNumber = "49"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
             landmarkName = "dataRequest(completionHandler:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -153,11 +122,122 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "newcall/ViewController.swift"
-            timestampString = "548021111.681999"
+            timestampString = "548025324.990642"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "55"
-            endingLineNumber = "55"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "dataRequest(completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newcall/ViewController.swift"
+            timestampString = "548025324.990837"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "dataRequest(completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newcall/ViewController.swift"
+            timestampString = "548025324.991032"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "dataRequest(completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newcall/ViewController.swift"
+            timestampString = "548025324.991221"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "dataRequest(completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in newcall.ViewController.dataRequest(completionHandler: (newcall.ViewController.responseData) -&gt; ()) -&gt; ()"
+                  moduleName = "newcall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexbeattie/Desktop/newcall%20copy/newcall/ViewController.swift"
+                  timestampString = "548025325.128016"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "3127">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in newcall.ViewController.dataRequest(completionHandler: (newcall.ViewController.responseData) -&gt; ()) -&gt; ()"
+                  moduleName = "newcall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexbeattie/Desktop/newcall%20copy/newcall/ViewController.swift"
+                  timestampString = "548025325.131595"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "3686">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in newcall.ViewController.dataRequest(completionHandler: (newcall.ViewController.responseData) -&gt; ()) -&gt; ()"
+                  moduleName = "newcall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexbeattie/Desktop/newcall%20copy/newcall/ViewController.swift"
+                  timestampString = "548025325.134397"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "3724">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "newcall/ViewController.swift"
+            timestampString = "548025324.9914089"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
             landmarkName = "dataRequest(completionHandler:)"
             landmarkType = "7">
          </BreakpointContent>
